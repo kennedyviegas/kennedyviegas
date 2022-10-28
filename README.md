@@ -1,6 +1,6 @@
 ### Olá, Me chamo kennedy viegas 👋
 
-- 🔭  estudando javascript
+- 🔭Estudando javascript
 - 🌱 Tabralho com front-end
 - 📫 fale comigo pelo gmail: kennedy.viegas42@gmail.com
 
