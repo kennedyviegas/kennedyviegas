@@ -1,7 +1,7 @@
 ### Olá, Me chamo kennedy viegas 👋
 
-- 🔭Estudando javascript
-- 🌱 Trabalho com front-end
+- 🔭Estudando  sistemas da informação
+- 🌱 Desenvolvedor  JS
 - 📫 fale comigo pelo gmail: kennedy.viegas42@gmail.com
 
 ![kenendy GitHub stats](https://github-readme-stats.vercel.app/api?username=kennedyviegas&show_icons=true&theme=tokyonight)
