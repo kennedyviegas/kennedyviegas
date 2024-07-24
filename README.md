@@ -9,5 +9,5 @@
 ## Tecnologias que tenho conhecimento 
 <div style="display:inline_black">
 <img alt="AWS " src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-
+<img alt="Python " src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div>
