@@ -2,7 +2,7 @@
 
 - 🔭Estudando  sistemas da informação
 - 🌱 Desenvolvedor  em Formação 
-- 📫 fale comigo pelo gmail: kennedy.viegas42@gmail.com
+- 📫 Fale comigo pelo gmail: kennedy.viegas42@gmail.com
 
 ![kenendy GitHub stats](https://github-readme-stats.vercel.app/api?username=kennedyviegas&show_icons=true&theme=tokyonight)
 
