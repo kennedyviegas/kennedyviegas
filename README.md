@@ -1,6 +1,6 @@
 ### Olá, Me chamo kennedy viegas 👋
 
-- 🔭Estudando  sistemas da informação
+- 🔭Estudante sistemas da informação
 - 🌱 Desenvolvedor  em Formação 
 - 📫 Fale comigo pelo gmail: kennedy.viegas42@gmail.com
 
